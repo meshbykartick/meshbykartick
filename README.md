@@ -57,7 +57,11 @@ Collection of classical **numerical analysis algorithms** implemented in Python,
 - **Programming:** C,C++, Python (NumPy, SciPy, PyTorch, Flask), MATLAB , Mathematica, Sagemath
 - **Visualization:** Matplotlib, GeoGebra 
 - **Math Tools:** FFT, Numerical Linear Algebra, ODE/PDE Solvers  
-- **Other:** LaTeX, Git, Linux, HPC basics, Adobe Premere Pro, Photoshop, Audacity  
+- **Other:** LaTeX, Git, Linux, HPC basics, Adobe Premere Pro, Photoshop, Audacity
+
+---
+
+📄 [View My Resume](https://meshbykartick.github.io/MyCV/)
 
 ---
 
